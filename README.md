@@ -27,4 +27,4 @@ We also created all of the graphics.
 
 ## Demo
 A demo video of gameplay is available at
-TODO: youTube link.
+https://youtu.be/O-IWal6LFMo
